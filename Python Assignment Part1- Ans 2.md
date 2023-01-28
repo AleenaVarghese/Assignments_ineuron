@@ -214,7 +214,7 @@ a,b,c = input("enter 3 numbers").split()
 list1 = [int(a),int(b),int(c)]
 list1.sort()
 print("largest value",list1[-1])
-
+**Assignment Part-2**
 Q25. Write a program to display only those numbers from a list that satisfy the following conditions
 
 - The number must be divisible by five
